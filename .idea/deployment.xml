@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="root@36.103.203.216:30157 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_567" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@36.103.203.216:30159 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_639" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@36.103.203.216:30250 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_485" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@36.103.203.216:30282 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_77" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.cqa1.seetacloud.com:36025 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_643" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.nmb1.seetacloud.com:29745 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_467" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@region-46.seetacloud.com:19685 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_299" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@region-9.autodl.pro:23126 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_7" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@region-9.autodl.pro:29889 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/autodl-tmp/CroSel-main" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
